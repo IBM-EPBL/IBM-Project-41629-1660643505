@@ -2,7 +2,7 @@ from ibm_watson_machine_learning import APIClient
 
 web_cred={
     "apikey": "6PcwxslwN5BT5dP8C4oKx62Vsz661Sxw-KY3oVAygalC",
-	"url": "https://cloud.ibm.com/user"
+	"url": "https://ea-gf.mc.cloud.ibm.com"
 }
 
 client=APIClient(web_cred)
